@@ -3,11 +3,6 @@
 Eu sou a Beatriz Massinani, desenvolvedora Front-End Júnior!
   - Atualmente estou aprimorando meus conhecimentos em JavaScript e React.
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=massinani&show_icons=true&theme=radical&hide=issues">
-    
-<br>
 
 #### Connect with me
 <p>
