@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-Eu sou a Beatriz Massinani, desenvolvedora Front-End!
+Eu sou a Beatriz Massinani, desenvolvedora Front-End Júnior!
   - Atualmente estou aprimorando meus conhecimentos em JavaScript e React.
 
 <br>
